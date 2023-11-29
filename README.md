@@ -1,4 +1,4 @@
-# Challenge 2 / Portfolio 
+# Challenge 2 - Portfolio 
 Advanced CSS portfolio webpage
 ## Description
 My motivation for this project was to fuly create my own webpage from scratch using HTML and CSS. This is a professional portfolio demo that contains information about me, shows "my  work", and has all of my contact informaton at the bottom of the screen.
